@@ -136,7 +136,7 @@
       value (v) {
         if (v) {
           let vm = this
-          this.top = false
+          this.top = true
           this.$nextTick(() => {
               let rect = vm.$refs.dropdown.getBoundingClientRect()
               let window_height = (window.innerHeight || document.documentElement.clientHeight)

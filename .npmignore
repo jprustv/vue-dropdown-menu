@@ -1,0 +1,12 @@
+git/
+docs/
+node_modules/
+.browserslistrc
+.eslintrc.js
+.gitignore
+.npmignore
+babel.config.js
+deploy.sh
+package-lock.json
+postcss.config.js
+yarn.lock

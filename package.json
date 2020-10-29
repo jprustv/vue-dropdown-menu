@@ -1,6 +1,13 @@
 {
-  "name": "@innologica/vue-dropdown-menu",
+  "name": "@jprustv/vue-dropdown-menu",
   "version": "0.1.4",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jprustv/node-wifi.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "lint": "vue-cli-service lint",
     "lib": "vue-cli-service build --target lib --name vue-dropdown-menu ./src/index.js",
