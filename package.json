@@ -3,7 +3,7 @@
   "version": "0.1.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jprustv/node-wifi.git"
+    "url": "git://github.com/jprustv/vue-dropdown-menu.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
